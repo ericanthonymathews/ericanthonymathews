@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+
+I'm a software engineer with a background in education an research. Looking forward to coding and learning with you all!
+
+In my free time I enjoy playing music, gaming, and camping. 
 
 <!--
 **ericanthonymathews/ericanthonymathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
